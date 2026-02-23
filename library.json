@@ -114,5 +114,193 @@
     "normal_sus_gs2_rr1": "normal/ZuckermannKitHarpsi_Normal_Sus_G#2_rr1.wav",
     "normal_sus_gs3_rr1": "normal/ZuckermannKitHarpsi_Normal_Sus_G#3_rr1.wav",
     "normal_sus_gs4_rr1": "normal/ZuckermannKitHarpsi_Normal_Sus_G#4_rr1.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "A#0",
+      "sample": "lute_rel_as0_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C1",
+      "sample": "lute_rel_c1_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D1",
+      "sample": "lute_rel_d1_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E1",
+      "sample": "lute_rel_e1_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#1",
+      "sample": "lute_rel_fs1_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#1",
+      "sample": "lute_rel_gs1_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#1",
+      "sample": "lute_rel_as1_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C2",
+      "sample": "normal_rel_c2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D2",
+      "sample": "lute_rel_d2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E2",
+      "sample": "lute_rel_e2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#2",
+      "sample": "lute_sus_fs2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G2",
+      "sample": "lute_rel_g2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#2",
+      "sample": "lute_rel_gs2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A2",
+      "sample": "lute_rel_a2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#2",
+      "sample": "lute_sus_as2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B2",
+      "sample": "normal_rel_b2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C3",
+      "sample": "lute_rel_c3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "lute_rel_d3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E3",
+      "sample": "lute_rel_e3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#3",
+      "sample": "lute_rel_fs3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#3",
+      "sample": "lute_rel_gs3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#3",
+      "sample": "lute_rel_as3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "lute_rel_c4_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "lute_rel_d4_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E4",
+      "sample": "lute_rel_e4_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#4",
+      "sample": "lute_rel_fs4_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#4",
+      "sample": "lute_rel_gs4_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "lute_rel_as4_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "lute_sus_c5_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "lute_rel_d5_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E5",
+      "sample": "lute_rel_e5_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    }
+  ]
 }
